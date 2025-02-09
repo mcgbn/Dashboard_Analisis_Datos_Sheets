@@ -3,7 +3,7 @@
 ## 🔗URLS de acceso y descripción del proyecto
   ➡️URL del proyecto en Google Sheets con dashboard: https://docs.google.com/spreadsheets/d/12uhH2EJbwGhvZ10qJ-FRxOSDF6miqt27Hl1enHnOFnw/edit?gid=0#gid=0
   
-  ➡️URL con datos brutos de los archivos originales: https://docs.google.com/spreadsheets/d/1AaV4-eHFJ_UB6qRN7tZeNmGM35o4VGK3Fk-q3gqcRU4/edit?gid=1731028591#gid=1731028591
+  ➡️URL con conjunto de los datos brutos de los archivos originales: https://docs.google.com/spreadsheets/d/1AaV4-eHFJ_UB6qRN7tZeNmGM35o4VGK3Fk-q3gqcRU4/edit?gid=1731028591#gid=1731028591
   
   ➡️URL origen de los datos: https://www.kaggle.com/datasets/thedevastator/udemy-courses-revenue-generation-and-course-anal/data
 
